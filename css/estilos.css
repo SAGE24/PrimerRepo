@@ -1,11 +1,17 @@
 body{
     text-align: center;
     font-family: Verdana;
-    color: black;
+    color: red;
 }
 
 #Container{
     text-align: center;
-    font-family: 'Times New Roman';
-    color: blue;
+    font-family: Arial;
+    color:red;
+}
+
+#Cuerpo{
+    text-align: center;
+    font-family: Arial;
+    color:blue;
 }
