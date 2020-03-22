@@ -1,11 +1,22 @@
 body{
     text-align: center;
     font-family: Verdana;
-    color: black;
+    color: red;
 }
 
 #Container{
     text-align: center;
+<<<<<<< HEAD
     font-family: 'Times New Roman';
     color: red;
+=======
+    font-family: Arial;
+    color:red;
+}
+
+#Cuerpo{
+    text-align: center;
+    font-family: Arial;
+    color:blue;
+>>>>>>> desarrollo
 }
