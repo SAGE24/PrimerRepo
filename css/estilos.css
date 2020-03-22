@@ -1,5 +1,11 @@
 body{
     text-align: center;
     font-family: Verdana;
-    color: deeppink;
+    color: black;
+}
+
+#Container{
+    text-align: center;
+    font-family: Arial;
+    color: red;
 }
