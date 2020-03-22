@@ -6,6 +6,16 @@ body{
 
 #Container{
     text-align: center;
+<<<<<<< HEAD
     font-family: 'Times New Roman';
+=======
+    font-family: Arial;
+    color: blue;
+}
+
+#Cabecera{
+    text-align: center;
+    font-family: Arial;
+>>>>>>> desarrollo
     color: red;
 }
