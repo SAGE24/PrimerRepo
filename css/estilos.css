@@ -4,6 +4,13 @@ body{
     color: red;
 }
 
+#Cabecera{
+    width: 100%;
+    position: relative;
+    background-position-x: 172px;
+    border: 1px solid black;
+}
+
 #Container{
     text-align: center;
     font-family: Arial;
